@@ -11,7 +11,7 @@
 ```
 virtualenv cvsscalc
 source cvsscalc/bin/activate
-pip install -r requirements
+pip install PyQt5
 cd cvsscalc && ./cvsscalc.py
 ```
 
